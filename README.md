@@ -1,6 +1,6 @@
 # Hello, World! 👋
 
-I am Luca Facin, an Italian Automation Engineer graduated at the University of Padua [<img src="https://upload.wikimedia.org/wikipedia/it/e/ee/Logo_Universit%C3%A0_Padova.png" width="16" height="16" />]. 
+I am Luca Facin, an Italian Automation Engineer graduated at the University of Padua :man_student:. <br/> 
 I have particular interest in topics related to control, modeling and machine learning and I am passionate about motorsports 🏍️.
 
 ## 🔗 Connect with Me:
@@ -9,7 +9,6 @@ I have particular interest in topics related to control, modeling and machine le
 [<img align="left"  width="22px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/twitter/twitter.png" />][twitter]
 [<img align="left"  width="22px" src="https://upload.wikimedia.org/wikipedia/commons/a/a5/Instagram_icon.png" />][instagram]
 
-<br />
 
 ## 🧰 Languages and Tools:
 
