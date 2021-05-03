@@ -1,19 +1,20 @@
-### Hello, World! 👋
+# Hello, World! 👋
 
-I am Luca Facin, an Italian 🇮🇹 Automation Engineer graduated at the University of Padua [<img width="16" height="16" src="https://it.wikipedia.org/wiki/File:Logo_Universit%C3%A0_Padova.svg" />]. I have particular interest in topics related to control, modeling and machine learning and I am passionate about motorsports 🏍️.
+I am Luca Facin, an Italian :it: Automation Engineer graduated at the University of Padua [<img width="16" height="16" src="https://upload.wikimedia.org/wikipedia/it/e/ee/Logo_Universit%C3%A0_Padova.png" />]. 
+I have particular interest in topics related to control, modeling and machine learning and I am passionate about motorsports 🏍️.
 
 ## 🔗 Connect with Me:
 
-[<img align="left"  width="22px" src="https://commons.wikimedia.org/wiki/File:Linkedin.svg" />][linkedin]
-[<img align="left"  width="22px" src="https://sco.wikipedia.org/wiki/File:Twitter_bird_logo_2012.svg" />][twitter]
-[<img align="left"  width="22px" src="https://it.m.wikipedia.org/wiki/File:Instagram_logo_2016.svg" />][instagram]
+[<img align="left"  width="22px" src="https://upload.wikimedia.org/wikipedia/commons/c/ca/LinkedIn_logo_initials.png" />][linkedin]
+[<img align="left"  width="22px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/twitter/twitter.png" />][twitter]
+[<img align="left"  width="22px" src="https://upload.wikimedia.org/wikipedia/commons/a/a5/Instagram_icon.png" />][instagram]
 
 <br />
 
 ## 🧰 Languages and Tools:
 
 [<img align="left" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/macos/macos.png" />]
-[<img align="left" width="26px" src="https:https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/windows/windows.png" />]
+[<img align="left" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/windows/windows.png" />]
 [<img align="left" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/matlab/matlab.png" />]
 [<img align="left" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/cpp/cpp.png" />]
 [<img align="left" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/opencv/opencv.png" />]
