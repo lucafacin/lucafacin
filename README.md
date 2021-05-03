@@ -24,7 +24,7 @@ I have particular interest in topics related to control, modeling and machine le
 <br />
 
 ## 📈 GitHub Stats
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=lucafacin&langs_count=4&hide_border=true&theme=dark)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=lucafacin&langs_count=3&theme=dark)
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=lucafacin&show_icons=true&theme=dark)
 
 
