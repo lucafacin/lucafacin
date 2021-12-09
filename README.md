@@ -2,7 +2,7 @@
 
 I am Luca Facin, an Italian Automation Engineer graduated at the University of Padua :man_student:. <br/> 
 I have particular interest in topics related to control, modeling and machine learning and I am passionate about motorsports 🏍️.
-<\math>\dfrac{X}{Y_1}<\math>
+
 ## 🔗 Connect with Me:
 
 [<img align="left"  width="30px" src="https://upload.wikimedia.org/wikipedia/commons/c/ca/LinkedIn_logo_initials.png" />][linkedin]
