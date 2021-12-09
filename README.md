@@ -24,8 +24,7 @@ $\dfrac{X}{Y_1}
 <br />
 
 ## 📈 GitHub Stats
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=lucafacin&theme=dark)
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=lucafacin&show_icons=true&theme=dark)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=lucafacin&show_icons=true)
 
 
 <!-- Links to social media accounts -->
